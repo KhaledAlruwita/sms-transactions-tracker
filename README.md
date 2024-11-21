@@ -17,11 +17,11 @@ i want to add a graphical representations and statistical analysis of stored the
 Improve support for various formats of bank transaction messages.
 ## Screenshots
 Transaction Input Form
-![App Screenshot]![Input Form](./screenshots/3.png)
+![Input Form](./screenshots/3.png)
 Parsed Transaction Details:
-![App Screenshot]![Input Form](./screenshots/2.png)
+![Input Form](./screenshots/2.png)
 Stored Transactions Table:
-![App Screenshot]![Input Form](./screenshots/1.png)
+![Input Form](./screenshots/1.png)
 ## Run the project
 
 Clone the project
