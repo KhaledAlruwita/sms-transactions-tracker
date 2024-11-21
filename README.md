@@ -3,7 +3,7 @@
 
 this project is a simple system that allows you to input transaction messages via website or you can do it from IOS shortcut app, parse the messages contents, and store the parsed data in a database. It also provides an interface to view and the stored transactions.
 
-# Futures im corrently working on
+# Features im corrently working on
 **Multiple User Support:**
 
 allow multiple users to store and manage their transactions.
